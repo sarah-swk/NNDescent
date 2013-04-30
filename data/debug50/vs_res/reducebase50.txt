@@ -1,0 +1,8 @@
+#### Start: N = 50 ##########
+iter: 1	callDist: 1783	conveged: 1156
+iter: 2	callDist: 3003	conveged: 126
+iter: 3	callDist: 4476	conveged: 33
+iter: 4	callDist: 4911	conveged: 0
+Time: 0 min 11 sec 
+
+
